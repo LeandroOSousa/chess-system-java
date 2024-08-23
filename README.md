@@ -1,6 +1,6 @@
 # Chess System Java
 ## Descrição
-O **Chess System Java ** é um sistema de xadrez desenvolvido em Java. Este projeto permite jogar xadrez através do console, com funcionalidades que incluem a criação de partidas, movimentação de peças, verificação de xeque e xeque-mate, promoção de peças, e muito mais.
+O **Chess System Java** é um sistema de xadrez desenvolvido em Java. Este projeto permite jogar xadrez através do console, com funcionalidades que incluem a criação de partidas, movimentação de peças, verificação de xeque e xeque-mate, promoção de peças, e muito mais.
 
 ## Funcionalidades
 - Criação de novas partidas de xadrez.
